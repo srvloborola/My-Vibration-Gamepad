@@ -32,12 +32,12 @@ MSCLoader: https://www.nexusmods.com/mywintercar/mods/3
 
 1. Close the game and install MSCLoader if needed.
 2. Download and extract the mod archive.
-3. Copy **RivettRumble.dll** into the **Mods** folder used by MSCLoader.
+3. Copy **MyVibrationGamepad.dll** into the **Mods** folder used by MSCLoader.
 4. If the DLL is already there, replace it. Do not keep a second renamed copy.
 5. Start My Winter Car, load a save and open **My Vibration Gamepad** in the mod settings.
 6. Connect your controller, use the vibration test buttons and adjust the settings.
 
-> The DLL keeps its original internal filename, **RivettRumble.dll**, for continuity with earlier builds. The mod appears in game as **My Vibration Gamepad**.
+The mod appears in game as **My Vibration Gamepad**.
 
 ## Compatibility
 
@@ -57,7 +57,7 @@ If there is no vibration:
 
 ## Uninstall
 
-Close the game and remove **RivettRumble.dll** from the MSCLoader Mods folder.
+Close the game and remove **MyVibrationGamepad.dll** from the MSCLoader Mods folder.
 
 ---
 
@@ -67,7 +67,7 @@ Close the game and remove **RivettRumble.dll** from the MSCLoader Mods folder.
 
 Adiciona vibração ao controle Xbox/XInput para **corte de giro, rodas patinando, freios travados e buracos** em My Winter Car. Também inclui câmera pelo analógico direito, centralização pelo R3 e ajustes de intensidade, sensibilidade e zona morta.
 
-**Instalação:** extraia o arquivo e copie **RivettRumble.dll** para a pasta **Mods** usada pelo MSCLoader. Abra o jogo, carregue um save e configure o mod em **My Vibration Gamepad**.
+**Instalação:** extraia o arquivo e copie **MyVibrationGamepad.dll** para a pasta **Mods** usada pelo MSCLoader. Abra o jogo, carregue um save e configure o mod em **My Vibration Gamepad**.
 
 O menu e o diagnóstico estão disponíveis em português brasileiro.
 
@@ -79,6 +79,6 @@ O menu e o diagnóstico estão disponíveis em português brasileiro.
 
 Добавляет вибрацию геймпада Xbox/XInput при **отсечке оборотов, пробуксовке, блокировке колёс и на неровностях дороги** в My Winter Car. Также доступны управление камерой правым стиком, возврат взгляда по R3 и настройки вибрации, чувствительности и мёртвой зоны.
 
-**Установка:** распакуйте архив и скопируйте **RivettRumble.dll** в папку **Mods**, используемую MSCLoader. Запустите игру, загрузите сохранение и откройте настройки **My Vibration Gamepad**.
+**Установка:** распакуйте архив и скопируйте **MyVibrationGamepad.dll** в папку **Mods**, используемую MSCLoader. Запустите игру, загрузите сохранение и откройте настройки **My Vibration Gamepad**.
 
 Настройки и диагностика доступны на русском языке.
