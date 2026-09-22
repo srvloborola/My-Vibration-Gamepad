@@ -1,5 +1,7 @@
 # My Vibration Gamepad
 
+**Current version: 0.9**
+
 Gamepad vibration and right-stick camera support for **My Winter Car**.
 
 Feel rev-limiter pulses, wheelspin, locked brakes and road bumps through an Xbox/XInput controller. The mod also adds right-stick camera control, R3 recentering, and adjustable vibration and camera settings.
@@ -61,6 +63,8 @@ Close the game and remove **RivettRumble.dll** from the MSCLoader Mods folder.
 
 ## Português (Brasil)
 
+**Versão atual: 0.9**
+
 Adiciona vibração ao controle Xbox/XInput para **corte de giro, rodas patinando, freios travados e buracos** em My Winter Car. Também inclui câmera pelo analógico direito, centralização pelo R3 e ajustes de intensidade, sensibilidade e zona morta.
 
 **Instalação:** extraia o arquivo e copie **RivettRumble.dll** para a pasta **Mods** usada pelo MSCLoader. Abra o jogo, carregue um save e configure o mod em **My Vibration Gamepad**.
@@ -70,6 +74,8 @@ O menu e o diagnóstico estão disponíveis em português brasileiro.
 ---
 
 ## Русский
+
+**Текущая версия: 0.9**
 
 Добавляет вибрацию геймпада Xbox/XInput при **отсечке оборотов, пробуксовке, блокировке колёс и на неровностях дороги** в My Winter Car. Также доступны управление камерой правым стиком, возврат взгляда по R3 и настройки вибрации, чувствительности и мёртвой зоны.
 
